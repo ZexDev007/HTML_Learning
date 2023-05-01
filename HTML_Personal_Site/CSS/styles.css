@@ -1,0 +1,19 @@
+body {
+    background-color: azure;
+  }
+  hr {
+    border-width: 7px;
+    border-style: dotted none none;
+    border-color: #e3e0e5;
+    width: 7%;
+  }
+h1,h3{
+  
+  color: #66BFBF;
+}
+h1,h3,p,a,table,li,label,input,textarea{
+  font-family: 'Courier New', Courier, monospace;
+}
+a{
+  text-decoration: none;
+}
