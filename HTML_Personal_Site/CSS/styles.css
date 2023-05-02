@@ -1,5 +1,5 @@
 body {
-    background-color: azure;
+    background-color: azure !important;
   }
   hr {
     border-width: 7px;
@@ -9,7 +9,7 @@ body {
   }
 h1,h3{
   
-  color: #66BFBF;
+  color: #66BFBF ;
 }
 h1,h3,p,a,table,li,label,input,textarea{
   font-family: 'Courier New', Courier, monospace;
