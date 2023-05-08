@@ -20,7 +20,14 @@ img{
     
 
 }
-.spinach_png{
+.spinach_png:hover{
     background-color:aquamarine;
     /* background-color can be applied only to png images*/
+}
+
+.circular:hover{
+    border-radius: 50%;
+}
+.skull{
+    background-color: gray;
 }
