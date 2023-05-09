@@ -86,7 +86,9 @@ margin-top: 25px;
 }
 
 .bottom-container{
-    background-color: rgb(197, 241, 241);
+    /*background-color: rgb(197, 241, 241);*/
+    background-color: #66BFBF
+    ;
     height: 80px;
     padding: 25px 0 0;
     /*
@@ -94,12 +96,15 @@ margin-top: 25px;
     /*border: solid;*/
 }
 .footer{
-    margin: 5px 0 0 20px;
+    width: 30%;
+    margin: 5px auto 20px;
 }
 .footer > a{
     margin: 0 7px 0 7px;
 }
-
+.footer > p{
+    color: #EAF6F6;
+}
 span{
     color:rgb(66, 68, 68);
     
