@@ -82,20 +82,19 @@ hr{
 }
 
 .skills > h2{
-    margin-top: 25px;
+margin-top: 25px;
 }
 
 .bottom-container{
     background-color: rgb(197, 241, 241);
     height: 80px;
     padding: 25px 0 0;
-    
     /*
     width: 200px;*/
     /*border: solid;*/
 }
 .footer{
-    margin: 5 0 0 0;
+    margin: 5px 0 0 20px;
 }
 .footer > a{
     margin: 0 7px 0 7px;
