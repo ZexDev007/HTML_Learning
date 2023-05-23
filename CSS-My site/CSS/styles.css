@@ -122,8 +122,8 @@ margin-top: 25px;
     margin-bottom: 0;
 }
 .skill-row > img{
-    height: 25%;
-    width: 25%;
+    height: 15%;
+    width: 20%;
     }
 
 .skill-row > p{
@@ -150,8 +150,10 @@ margin-top: 25px;
 }
 
 .js-img{
+    
     float:right;
     margin-left: 20px;
+    
 }
 
 .contact-me{
