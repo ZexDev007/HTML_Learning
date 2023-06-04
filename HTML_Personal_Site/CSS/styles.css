@@ -1,5 +1,6 @@
 body {
     background-color: azure !important;
+    font-family: 'Courier New', Courier, monospace;
   }
   hr {
     border-width: 7px;
@@ -11,9 +12,7 @@ h1,h3{
   
   color: #66BFBF ;
 }
-h1,h3,p,a,table,li,label,input,textarea{
-  font-family: 'Courier New', Courier, monospace;
-}
+
 a{
   text-decoration: none;
 }
